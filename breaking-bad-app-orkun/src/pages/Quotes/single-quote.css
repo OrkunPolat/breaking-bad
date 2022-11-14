@@ -1,0 +1,13 @@
+.quote {
+  padding: 10px 0;
+}
+.quote > a {
+  color: #000;
+  text-decoration: none;
+}
+.quote > a:hover {
+  transition: .2s;
+  font-weight: 700;
+  color: #623;
+  text-decoration: underline;
+}
